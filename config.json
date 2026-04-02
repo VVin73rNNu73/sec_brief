@@ -1,0 +1,306 @@
+{
+  "sources": {
+    "twitter_accounts": [
+      {
+        "handle": "vanhoefm",
+        "name": "Mathy Vanhoef",
+        "focus": "Wi-Fi Security",
+        "enabled": true
+      },
+      {
+        "handle": "p1security",
+        "name": "P1 Security",
+        "focus": "5G/LTE Security",
+        "enabled": true
+      },
+      {
+        "handle": "naehrdine",
+        "name": "Jiska Classen",
+        "focus": "Bluetooth/WiFi",
+        "enabled": false
+      },
+      {
+        "handle": "SecReLabs",
+        "name": "Security Research Labs",
+        "focus": "Telecom Security",
+        "enabled": false
+      },
+      {
+        "handle": "LaF0rge",
+        "name": "Harald Welte",
+        "focus": "GSM/LTE",
+        "enabled": false
+      },
+      {
+        "handle": "srsRANProject",
+        "name": "srsRAN Project",
+        "focus": "OpenRAN/SDR",
+        "enabled": true
+      },
+      {
+        "handle": "alt_a_f",
+        "name": "Altaf Shaik",
+        "focus": "5G Protocol Security",
+        "enabled": false
+      },
+      {
+        "handle": "LennertWo",
+        "name": "Lennert",
+        "focus": "Hardware Security",
+        "enabled": false
+      },
+      {
+        "handle": "amatcama",
+        "name": "acez",
+        "focus": "Baseband Exploitation",
+        "enabled": false
+      },
+      {
+        "handle": "vusec",
+        "name": "VUSec",
+        "focus": "Hardware Security",
+        "enabled": true
+      },
+      {
+        "handle": "kutyacica",
+        "name": "Daniel Komaromy",
+        "focus": "Telecom/5G Security",
+        "enabled": true
+      },
+      {
+        "handle": "samykamkar",
+        "name": "Samy Kamkar",
+        "focus": "Hardware/Wireless Hacking",
+        "enabled": true
+      },
+      {
+        "handle": "hardwear_io",
+        "name": "Hardwear.io",
+        "focus": "Hardware Security Conference",
+        "enabled": true
+      },
+      {
+        "handle": "CVEannounce",
+        "name": "CVE Announcements",
+        "focus": "Vulnerability Disclosures",
+        "enabled": true
+      },
+      {
+        "handle": "cgomezz_23",
+        "name": "0xh3l1x",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "HackingLZ",
+        "name": "Justin Elze",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "pentest_swissky",
+        "name": "Swissky",
+        "focus": "Penetration Testing",
+        "enabled": true
+      },
+      {
+        "handle": "pwn2ooown",
+        "name": "pwn2ooown",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "ITSecurityguard",
+        "name": "Patrik Grobshäuser",
+        "focus": "IT Security",
+        "enabled": true
+      },
+      {
+        "handle": "hyprdude",
+        "name": "hypr",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "TheHackersNews",
+        "name": "The Hacker News",
+        "focus": "Security News",
+        "enabled": true
+      },
+      {
+        "handle": "Hacker0x01",
+        "name": "HackerOne",
+        "focus": "Bug Bounty",
+        "enabled": true
+      },
+      {
+        "handle": "BlackHatEvents",
+        "name": "Black Hat",
+        "focus": "Security Conference",
+        "enabled": true
+      },
+      {
+        "handle": "0xor0ne",
+        "name": "0xor0ne",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "disconnect3d_pl",
+        "name": "Disconnect3d",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "GoogleVRP",
+        "name": "Google VRP",
+        "focus": "Vulnerability Rewards",
+        "enabled": true
+      },
+      {
+        "handle": "cplearns2h4ck",
+        "name": "chiefpie",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "binitamshah",
+        "name": "Binni Shah",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "CveFindCom",
+        "name": "CVEFind.com",
+        "focus": "CVE Database",
+        "enabled": true
+      },
+      {
+        "handle": "TaszkSecLabs",
+        "name": "Taszk Security Labs",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "viperbjk",
+        "name": "Bjoern Kerler",
+        "focus": "Mobile/Hardware Security",
+        "enabled": true
+      },
+      {
+        "handle": "Hermes_tooll",
+        "name": "Hermes Tool",
+        "focus": "Security Tools",
+        "enabled": true
+      },
+      {
+        "handle": "__x86",
+        "name": "Jeremy Fetiveau",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "DistrictCon",
+        "name": "DistrictCon",
+        "focus": "Security Conference",
+        "enabled": true
+      },
+      {
+        "handle": "soaphornseuo",
+        "name": "soaphorn seuo",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "ProjectZeroBugs",
+        "name": "Project Zero Bugs",
+        "focus": "Vulnerability Research",
+        "enabled": true
+      },
+      {
+        "handle": "thezdi",
+        "name": "TrendAI Zero Day Initiative",
+        "focus": "Vulnerability Research",
+        "enabled": true
+      },
+      {
+        "handle": "TheZDIBugs",
+        "name": "TheZDIBugs",
+        "focus": "Vulnerability Research",
+        "enabled": true
+      },
+      {
+        "handle": "ZeroMemoryEx",
+        "name": "Necromancer",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "Anastasis_King",
+        "name": "Anastasis Vasileiadis",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "_0b1d1",
+        "name": "0b1d1",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "HackingTeam777",
+        "name": "HackingTeam777",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "helpnetsecurity",
+        "name": "Help Net Security",
+        "focus": "Security News",
+        "enabled": true
+      },
+      {
+        "handle": "l33d0hyun",
+        "name": "Dohyun Lee",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "0xAsm0d3us",
+        "name": "Devansh",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "payloadartist",
+        "name": "payloadartist",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "spaceraccoon",
+        "name": "spaceraccoon",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "Th3G3nt3lman",
+        "name": "Th3g3nt3lman",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "DarkNavyOrg",
+        "name": "DARKNAVY",
+        "focus": "Security Research",
+        "enabled": true
+      },
+      {
+        "handle": "NullSecurityX",
+        "name": "NullSecurityX",
+        "focus": "Security Research",
+        "enabled": true
+      }
+    ]
+  }
+}
