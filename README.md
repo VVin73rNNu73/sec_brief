@@ -16,7 +16,7 @@ npm install -g @steipete/bird
 
 编辑 `.env`，需要两个值，都从浏览器获取：
 
-<img width="2181" height="652" alt="image" src="https://github.com/user-attachments/assets/07e43486-f138-449b-b324-314d2e9cd36d" />
+<img width="2181" height="652" alt="571801918-07e43486-f138-449b-b324-314d2e9cd36d" src="https://github.com/user-attachments/assets/bc5c391b-2eb8-4576-bea9-d0728aafc7fb" />
 
 ```
 CT0=你的ct0值
